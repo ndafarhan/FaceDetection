@@ -1,5 +1,5 @@
 # FaceDetection
-Face detection sederhana dengan library opencv dan race-recognition menggunakan bahasa pemrograman python yang diimpelemtasikan ke data gambar dan webcam.
+Face detection sederhana dengan library opencv dan face-recognition menggunakan bahasa pemrograman python yang diimpelemtasikan ke data gambar dan webcam.
 ## Install Library
 Library yang perlu diinstall setidaknya yaitu:
 Opencv : pip install opencv-python
