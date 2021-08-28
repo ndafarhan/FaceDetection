@@ -1,7 +1,7 @@
 import cv2
 
 # Load cascade
-cascade = cv2.CascadeClassifier('/home/ndafarhan/Documents/opencv-master/data/haarcascades/haarcascade_frontalface_default.xml')
+cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # Capture video dari webcam
 vid_cap = cv2.VideoCapture(0)
